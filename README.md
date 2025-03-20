@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Enzo.ilz!
 ### 🚀 Front-End Developer | Web Designer | FiveM Developer
 
-- 🌱 I’m currently learning **Rust & Swift**
+- 💻 Passionate about **Web Development & UI/UX Design**
 - 💼 All my projects are available at [My Website](https://enzoilz.fr/)
-- 🎥 Twitch & Streaming: [My Twitch](https://twitch.tv/monpseudo)
+- 🎥 Twitch & Streaming: [My Twitch](https://www.twitch.tv/enzo_ilz)
 - 📫 Contact me: [My Email](mailto:contact@monsite.com)
 
 ---
@@ -33,17 +33,6 @@
 
 ---
 
-## 🏆 GitHub Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Enzo-ilz&theme=darkhub)
-
----
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/monpseudo)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/monpseudo)
-[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/monpseudo)
-
----
-
-### ⚡ Fun fact:
-> **"I code while blasting rap music and chewing gum. Focus level = MAX."** 🚀🎶  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo.ilz/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/enzo_ilz)
