@@ -4,7 +4,7 @@
 - 💻 Passionate about **Web Development & UI/UX Design**
 - 💼 All my projects are available at [My Website](https://enzoilz.fr/)
 - 🎥 Twitch & Streaming: [My Twitch](https://www.twitch.tv/enzo_ilz)
-- 📫 Contact me: [My Email](mailto:contact@monsite.com)
+- 📫 Contact me: [My Email](mailto:contact@enzoilz.fr)
 
 ---
 
