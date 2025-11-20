@@ -3,8 +3,8 @@
 
 - 💻 Passionate about **Web Development & UI/UX Design**
 
-- 🎥 Twitch & Streaming: [My Twitch](https://www.twitch.tv/enzo_ilz)
-- 📫 Contact me: [My Email](mailto:contact@enzoilz.fr)
+- 🎥 Twitch & Streaming: [My LinkedIn](https://www.linkedin.com/in/enzo-lopes-3b4327314/)
+- 📫 Contact me: [My Email](mailto:contact@enzo.lopes.dev.fr@gmail.com)
 
 ---
 
@@ -57,4 +57,3 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo.ilz/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/enzo_ilz)
