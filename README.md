@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Enzo.ilz!
-### 🚀 Front-End Developer | Web Designer | FiveM Developer
+### 🚀 Web Developer | Software Engineering Enthusiast
 
-- 💻 Passionate about **Web Development & UI/UX Design**
-
+- 💻 Passionate about **Web Development**, with a strong focus on **Software Architecture** and **Engineering principles**
+- 🧠 Interested in **clean code, scalable systems, and structured applications**
 - 🎥 Twitch & Streaming: [My LinkedIn](https://www.linkedin.com/in/enzo-lopes-3b4327314/)
 - 📫 Contact me: [My Email](mailto:contact@enzo.lopes.dev.fr@gmail.com)
 
