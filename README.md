@@ -1,130 +1,52 @@
-<h1> Hello, I'm Enzo.ilz 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</h1>
+# Hi, I'm Enzo 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://enzoilz.dev)
-[![Mail](https://img.shields.io/badge/Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@enzo.lopes.dev.fr@gmail.com)
+Software Engineering Student & Full-Stack Developer. Focused on clean architecture, systems programming (C/C++), and modern web stacks.
 
----
-
-<details>
-  <summary>
-    <h2>🧠 About Me</h2>
-  </summary>
-
-I am currently training to become a "Full-Stack Developer" and an "Application Developer & Designer", within a structured professional training program.
-
-I am currently completing a frontend internship before obtaining my CCP certification, then next year I will start backend development.
-
-In my free time, I also learn additional languages to deepen my development knowledge, notably: C & C++.
-
-I enjoy what I do and create, and I aim to reach my goal of becoming an engineer. I am particularly interested in software engineering, but cloud computing also interests me.
+[![Portfolio](https://img.shields.io/badge/Portfolio-enzoilz.dev-black?style=flat-square&logo=vercel)](https://enzoilz.dev)
+[![Email](https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail)](mailto:contact@enzo.lopes.dev.fr@gmail.com)
 
 ---
 
-<details>
-  <summary><h3>📚 Learning Path</h3></summary>
+### 🎓 Education & Path
 
-- High-level → React, TypeScript, Node.js
-- Architecture → Clean Code, Patterns, modular systems
-- Low-level → C (memory, pointers, performance)
-
-I’m building depth, not just skills.
-
-</details>
-
-</details>
+* 🟢 **Bac+2 Développeur Web & Web Mobile** — *En cours (Dernière étape : validation du CCP Backend)*
+* 🎯 **Epitech** — *Objectif : Programme Grande École (PGE) pour viser le titre de Software Engineer*
 
 ---
 
-<details>
-  <summary>
-   <h2>🖥️ Technologies & Skills</h2>
-  </summary>
+### 💻 Tech Stack
 
-<details>
-  <summary><h3>🎨 Frontend</h3></summary>
+* **Languages:**  
+  `![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)`
+  `![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)`
+  `![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)`
+  `![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)`
+  `![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)`
 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+* **Frontend:**  
+  `![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)`
+  `![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)`
+  `![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)`
 
-![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</details>
-
-<details>
-  <summary><h3>🧠 Backend / Scripting</h3></summary>
-
-![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</details>
-
-<details>
-  <summary><h3>⚙️ Low-Level</h3></summary>
-
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-And coming soon:
-
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</details>
-
-<details>
-  <summary><h3>☁️ Deployment & Tools</h3></summary>
-
-![OVH](https://img.shields.io/badge/ovh-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-</details>
+* **Backend & Dev Tools:**  
+  `![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)`
+  `![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)`
+  `![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)`
+  `![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)`
 
 ---
 
-<details>
-  <summary>
-    <h2>🚀 Projects & Work</h2>
-  </summary>
+### 🚀 Projects & Experience
 
-### Revind RP
-- Roleplay server architecture
-- UI systems (React + Lua)
-- Performance & modular systems
-
-### DevLink
-- Web app with authentication & routing
-- Structured frontend architecture
-
-### Alya RP
-- UI/UX design system
-- Figma → integration workflow
-
-### End-of-year project (front-end)
-
-- UI/UX design (Figma → production)
-- Design system (components, theme, consistency)
-- Full front-end development with React.js
-- API integration (data fetching, state management)
-- Authentication flows & routing
-- Responsive interface & user experience
-- Deployment (basic Bash scripting)
-
-</details>
+* 👶 **Oummakids** *(Full-Stack App)* — Développement complet de l'interface Frontend pour la mise en relation entre parents et babysitters. [Oummakids](https://oummakids.com/)
+* 💈 **Le Repère du Barbier** *(Freelance)* — Site vitrine d'un salon de coiffure/barbier avec présentation de la boutique et des prestations. [Le repère du barbier](https://le-repere-du-barbier.com/)
+* 🎮 **Revind RP / Alya RP** — Systèmes d'interface utilisateur sur-mesure et architecture modulaire *(React + Lua)*.
+* 🔗 **DevLink** — Application web avec authentification complète et routage dynamique.
 
 ---
 
-<details>
-  <summary>
-    <h2>📈 Current Focus</h2>
-  </summary>
+### 🎯 Current Focus
 
-- Deepening **software engineering fundamentals**
-- Learning **low-level programming (C & C++)**
-- Improving **system thinking**
-
-</details>
+* ⚙️ Perfectionnement des concepts de bas niveau (gestion mémoire & pointeurs en **C & C++**)
+* 🏗️ Approfondissement de la **Clean Architecture** et du **System Design**
+* ☁️ Préparation à l'intégration d'Epitech et transition vers le Software Engineering
